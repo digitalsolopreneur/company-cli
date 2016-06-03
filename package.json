@@ -1,0 +1,29 @@
+{
+  "name": "company-cli",
+  "version": "0.0.1",
+  "description": "create a company from the command line",
+  "main": "SOURCE/index.js",
+  "scripts": {
+    "check": "#http://blog.npmjs.org/post/118810260230/building-a-simple-command-line-tool-with-npm",
+    "andcheck": "http://cruft.io/posts/node-command-line-utilities/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "company": "node SOURCE/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalsolopreneur/company-cli.git"
+  },
+  "keywords": [
+    "company",
+    "cli"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalsolopreneur/company-cli/issues"
+  },
+  "homepage": "https://github.com/digitalsolopreneur/company-cli#readme",
+  "dependencies": {}
+}
