@@ -24,5 +24,7 @@ company run # starts a dev server with a user interface to interact with the com
 * [`abstract-company`](https://github.com/digitalsolopreneur/abstract-company)(specifies a standard interface to implement opening and running a company)
 * [`company-uk-ltd`](https://github.com/digitalsolopreneur/company-uk-ltd)(as a first example implementation that fullfillfs "abstract-company")
 
-Please check the roadmap too :-)
-https://github.com/digitalsolopreneur/roadmap/issues
+## Contributors
+Please check our [roadmap](https://github.com/digitalsolopreneur/roadmap/issues)
+
+This project is part of [squatup](https://github.com/SquatUp/roadmap/issues/2)

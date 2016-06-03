@@ -1,6 +1,6 @@
 {
   "name": "company-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "create a company from the command line",
   "main": "SOURCE/index.js",
   "scripts": {
