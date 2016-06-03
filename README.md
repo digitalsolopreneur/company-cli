@@ -1,6 +1,9 @@
 # company-cli
 create a company from the command line interface
 
+## Usage
+
+Install with `npm install company-cli`, then use it like:
 
 ```
 company init # if not already in a company repository, asks for:
@@ -15,7 +18,7 @@ company continue # instead of `company init` in a repo that has a company with i
 company run # starts a dev server with a user interface to interact with the company (might also offer other "run cli usage)
 ```
 
-**Related Projects:**
+## Related Projects
 * [`company`](https://github.com/digitalsolopreneur/company) (a library that lets you create a company programatically)
 * [`company-cli`](https://github.com/digitalsolopreneur/company-cli)(use "company" from the command line)
 * [`abstract-company`](https://github.com/digitalsolopreneur/abstract-company)(specifies a standard interface to implement opening and running a company)

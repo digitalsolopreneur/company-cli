@@ -1,6 +1,6 @@
 {
   "name": "company-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create a company from the command line",
   "main": "SOURCE/index.js",
   "scripts": {
@@ -17,7 +17,13 @@
   },
   "keywords": [
     "company",
-    "cli"
+    "cli",
+    "gmbh",
+    "limited",
+    "ltd",
+    "enterprise",
+    "contract",
+    "business"
   ],
   "author": "@serapath",
   "license": "MIT",
